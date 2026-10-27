@@ -1,0 +1,101 @@
+[
+  {
+    "id": "receta-1",
+    "title": "Pancakes de Avena y Banana Exprés",
+    "category": "Desayuno",
+    "prepTime": "10 min",
+    "energyImpact": "Sostenida / Absorción lenta",
+    "ingredients": ["1 banana madura", "1 huevo", "3 cdas de avena", "Canela y chorrito de leche"],
+    "steps": ["Pisar la banana y mezclar con el huevo, la avena y canela.", "Cocinar en sartén antiadherente 2 min por lado."]
+  },
+  {
+    "id": "receta-2",
+    "title": "Overnight Oats de Cacao y Chía",
+    "category": "Desayuno",
+    "prepTime": "5 min (Noche previa)",
+    "energyImpact": "Cero pesadez / Alto en fibra",
+    "ingredients": ["4 cdas de avena", "1 cda semillas de chía", "1 cdita cacao amargo", "Leche y frutos secos"],
+    "steps": ["Mezclar todo en un frasco la noche anterior.", "Consumir directo de la heladera a las 4:45 AM."]
+  },
+  {
+    "id": "receta-3",
+    "title": "Tostadas Integrales con Huevo y Palta",
+    "category": "Desayuno",
+    "prepTime": "10 min",
+    "energyImpact": "Proteína y grasas saludables",
+    "ingredients": ["2 rodajas pan integral", "2 huevos", "1/2 palta", "Sal y pimienta"],
+    "steps": ["Tostar el pan.", "Hacer huevos revueltos a fuego medio 3 min.", "Pisar la palta sobre la tostada y servir."]
+  },
+  {
+    "id": "receta-4",
+    "title": "Bowl de Quinoa, Pollo y Calabaza Asada",
+    "category": "Almuerzo",
+    "prepTime": "Batch Cooking",
+    "energyImpact": "Sostenida sin somnolencia",
+    "ingredients": ["Pollo desmenuzado", "Quinoa o arroz integral cocido", "Calabaza asada", "Espinaca fresca"],
+    "steps": ["Armar el tupper combinando partes iguales de cereal, proteína y vegetal."]
+  },
+  {
+    "id": "receta-5",
+    "title": "Ensalada Proteica de Garbanzos y Atún",
+    "category": "Almuerzo",
+    "prepTime": "5 min",
+    "energyImpact": "Liviano y rico en hierro",
+    "ingredients": ["1 lata garbanzos enjuagados", "1 lata atún al natural", "Tomates cherry", "Aceite de oliva y limón"],
+    "steps": ["Mezclar todos los ingredientes en un bowl y aliñar al gusto."]
+  },
+  {
+    "id": "receta-6",
+    "title": "Salteado de Lentejas y Vegetales",
+    "category": "Almuerzo",
+    "prepTime": "15 min",
+    "energyImpact": "Fibra y energía limpia",
+    "ingredients": ["1 taza lentejas cocidas", "1/2 cebolla", "1/2 morrón", "1/2 zucchini", "Queso magro"],
+    "steps": ["Rehogar los vegetales.", "Agregar las lentejas cocidas 3 min para integrar y servir con dados de queso."]
+  },
+  {
+    "id": "receta-7",
+    "title": "Smoothie de Banana, Avena y Frutos Secos",
+    "category": "Merienda",
+    "prepTime": "5 min",
+    "energyImpact": "Carga rápida pre-entreno",
+    "ingredients": ["1 banana", "2 cdas de avena", "1 vaso de agua/leche", "1 cda mantequilla de maní"],
+    "steps": ["Licuar todo por 1 minuto y tomar previo a salir a trotar."]
+  },
+  {
+    "id": "receta-8",
+    "title": "Yogur Griego con Granola y Fruta",
+    "category": "Merienda",
+    "prepTime": "3 min",
+    "energyImpact": "Proteico y refrescante",
+    "ingredients": ["200g yogur natural o griego", "2 cdas granola sin azúcar", "Fruta picada"],
+    "steps": ["Servir en un bowl e integrar."]
+  },
+  {
+    "id": "receta-9",
+    "title": "Omelette de Espinaca, Champiñones y Queso",
+    "category": "Cena",
+    "prepTime": "10 min",
+    "energyImpact": "Digestión rápida para dormir bien",
+    "ingredients": ["2 huevos", "Puñado espinaca fresca", "Champiñones laminados", "1 feto queso magro"],
+    "steps": ["Saltear verduras 2 min.", "Agregar huevos batidos, el queso y doblar a la mitad."]
+  },
+  {
+    "id": "receta-10",
+    "title": "Zapallo Anco Relleno de Atún y Queso",
+    "category": "Cena",
+    "prepTime": "10 min",
+    "energyImpact": "Relajante para el sistema nervioso",
+    "ingredients": ["Zapallo anco precocido", "1 lata de atún", "2 cdas queso crema magro"],
+    "steps": ["Pisar el centro del zapallo precocido.", "Rellenar con atún y queso crema, y calentar 2 min en microondas."]
+  },
+  {
+    "id": "receta-11",
+    "title": "Wok Exprés de Pollo y Vegetales",
+    "category": "Cena",
+    "prepTime": "15 min",
+    "energyImpact": "Proteína magra nocturna",
+    "ingredients": ["150g pechuga en tiras", "1/2 zucchini", "Zanahoria en tiras", "Salsa de soja baja en sodio"],
+    "steps": ["Saltear el pollo a fuego fuerte 5 min.", "Sumar los vegetales y la salsa de soja por 3 min más."]
+  }
+]

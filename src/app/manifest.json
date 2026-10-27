@@ -1,0 +1,16 @@
+{
+  "name": "SproutMind PWA",
+  "short_name": "SproutMind",
+  "description": "Sistema minimalista de productividad, hábitos y bienestar.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#09090b",
+  "theme_color": "#09090b",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
