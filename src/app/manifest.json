@@ -1,11 +1,11 @@
 {
-  "name": "PRAXIS — Personal Operating System",
-  "short_name": "PRAXIS",
-  "description": "Turn intention into action. Build your rhythm, improve your life.",
+  "name": "Kore Leaf — Personal Growth System",
+  "short_name": "Kore Leaf",
+  "description": "Grow at your own pace. Pequeños hábitos, crecimiento significativo.",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#111311",
-  "theme_color": "#111311",
+  "background_color": "#171B18",
+  "theme_color": "#171B18",
   "icons": [
     {
       "src": "/icon.png",

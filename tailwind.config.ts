@@ -9,12 +9,12 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        praxis: {
-          graphite: "#111311",      // Fondo principal
-          surface: "#252A24",       // Tarjetas y paneles (Olive Charcoal)
-          text: "#F4F4EE",          // Texto principal (Off-white)
-          lime: "#D7F36B",          // Acento (Lime)
-          "lime-hover": "#c8e855",
+        kore: {
+          charcoal: "#171B18",   // Fondo principal oscuro[cite: 7]
+          forest: "#243B2F",     // Superficies / tarjetas oscuras[cite: 7]
+          sage: "#9EAF91",       // Acentos, progreso y victorias[cite: 7]
+          cream: "#E6E9D8",      // Texto principal / Fondos claros[cite: 7]
+          sand: "#C7AE8A",       // Detalles cálidos y badges[cite: 7]
         },
       },
     },
