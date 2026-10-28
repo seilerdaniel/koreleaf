@@ -2,14 +2,14 @@ import Dexie, { type Table } from 'dexie';
 import { Habit, TodoItem, MealLog, Recipe } from '@/types';
 import initialRecipes from '@/data/recipes.json';
 
-export class SproutMindDB extends Dexie {
+export class ElevaDB extends Dexie {
   habits!: Table<Habit>;
   todos!: Table<TodoItem>;
   mealLogs!: Table<MealLog>;
   recipes!: Table<Recipe>;
 
   constructor() {
-    super('SproutMindDB');
+    super('ElevaDB');
     this.version(1).stores({
       habits: 'id',
       todos: 'id, category',
@@ -19,7 +19,7 @@ export class SproutMindDB extends Dexie {
   }
 }
 
-export const db = new SproutMindDB();
+export const db = new ElevaDB();
 
 // Carga inicial de datos si la base de datos está vacía
 db.on('populate', () => {

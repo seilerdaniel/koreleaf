@@ -1,11 +1,11 @@
 {
-  "name": "SproutMind PWA",
-  "short_name": "SproutMind",
-  "description": "Sistema minimalista de productividad, hábitos y bienestar.",
+  "name": "ELEVA — Personal Growth System",
+  "short_name": "ELEVA",
+  "description": "Mejorá tu día. Construí tu vida.",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#09090b",
-  "theme_color": "#09090b",
+  "background_color": "#101112",
+  "theme_color": "#101112",
   "icons": [
     {
       "src": "/icon.png",
