@@ -1,11 +1,11 @@
 {
-  "name": "ELEVA — Personal Growth System",
-  "short_name": "ELEVA",
-  "description": "Mejorá tu día. Construí tu vida.",
+  "name": "PRAXIS — Personal Operating System",
+  "short_name": "PRAXIS",
+  "description": "Turn intention into action. Build your rhythm, improve your life.",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#101112",
-  "theme_color": "#101112",
+  "background_color": "#111311",
+  "theme_color": "#111311",
   "icons": [
     {
       "src": "/icon.png",

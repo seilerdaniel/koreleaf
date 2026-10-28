@@ -2,14 +2,14 @@ import Dexie, { type Table } from 'dexie';
 import { Habit, TodoItem, MealLog, Recipe } from '@/types';
 import initialRecipes from '@/data/recipes.json';
 
-export class ElevaDB extends Dexie {
+export class PraxisDB extends Dexie {
   habits!: Table<Habit>;
   todos!: Table<TodoItem>;
   mealLogs!: Table<MealLog>;
   recipes!: Table<Recipe>;
 
   constructor() {
-    super('ElevaDB');
+    super('PraxisDB');
     this.version(1).stores({
       habits: 'id',
       todos: 'id, category',
@@ -19,7 +19,7 @@ export class ElevaDB extends Dexie {
   }
 }
 
-export const db = new ElevaDB();
+export const db = new PraxisDB();
 
 // Carga inicial de datos si la base de datos está vacía
 db.on('populate', () => {

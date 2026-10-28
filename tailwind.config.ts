@@ -1,4 +1,3 @@
-// tailwind.config.ts
 import type { Config } from "tailwindcss";
 
 const config: Config = {
@@ -10,11 +9,12 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        eleva: {
-          graphite: "#101112", // Fondos oscuros
-          slate: "#282B30",    // Tarjetas y superficies
-          ivory: "#F7F7F2",    // Textos principales
-          lime: "#C5F078",     // Acentos, progreso y victorias
+        praxis: {
+          graphite: "#111311",      // Fondo principal
+          surface: "#252A24",       // Tarjetas y paneles (Olive Charcoal)
+          text: "#F4F4EE",          // Texto principal (Off-white)
+          lime: "#D7F36B",          // Acento (Lime)
+          "lime-hover": "#c8e855",
         },
       },
     },
